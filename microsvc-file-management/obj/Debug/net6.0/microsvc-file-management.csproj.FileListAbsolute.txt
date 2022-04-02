@@ -1,0 +1,7 @@
+E:\Repos\Sydney\SidFakeUpload\microsvc-file-management\obj\Debug\net6.0\microsvc-file-management.csproj.AssemblyReference.cache
+E:\Repos\Sydney\SidFakeUpload\microsvc-file-management\obj\Debug\net6.0\microsvc-file-management.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Sydney\SidFakeUpload\microsvc-file-management\obj\Debug\net6.0\microsvc-file-management.AssemblyInfoInputs.cache
+E:\Repos\Sydney\SidFakeUpload\microsvc-file-management\obj\Debug\net6.0\microsvc-file-management.AssemblyInfo.cs
+E:\Repos\Sydney\SidFakeUpload\microsvc-file-management\obj\Debug\net6.0\microsvc-file-management.csproj.CoreCompileInputs.cache
+E:\Repos\Sydney\SidFakeUpload\microsvc-file-management\obj\Debug\net6.0\microsvc-file-management.MvcApplicationPartsAssemblyInfo.cs
+E:\Repos\Sydney\SidFakeUpload\microsvc-file-management\obj\Debug\net6.0\microsvc-file-management.MvcApplicationPartsAssemblyInfo.cache
