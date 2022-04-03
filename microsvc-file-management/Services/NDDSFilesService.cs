@@ -12,9 +12,9 @@ namespace microsvc_file_management.Services
         private readonly IGridFSBucket _bucket;
         public NDDSFilesService(IOptions<MongoDBSettings> MongoDBSettings)
         {
-            var mongoClient = new MongoClient(MongoDBSettings.Value.ConnectionString);
-            var mongoDatabase = mongoClient.GetDatabase(MongoDBSettings.Value.DatabaseName);
-            _bucket = new GridFSBucket(mongoDatabase);
+            //var mongoClient = new MongoClient(MongoDBSettings.Value.ConnectionString);
+            //var mongoDatabase = mongoClient.GetDatabase(MongoDBSettings.Value.DatabaseName);
+            //_bucket = new GridFSBucket(mongoDatabase);
         }
     }
 

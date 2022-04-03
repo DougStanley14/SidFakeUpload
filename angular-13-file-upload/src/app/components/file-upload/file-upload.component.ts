@@ -28,6 +28,7 @@ export class FileUploadComponent implements OnInit {
   }
 
   upload(): void {
+    debugger
     this.progress = 0;
 
     if (this.selectedFiles) {

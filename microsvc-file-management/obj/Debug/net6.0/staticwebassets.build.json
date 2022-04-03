@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n6ByiyVEYyfQsBtDJZR58dDiI1jk78zYegH+jJ7Gm+I=",
+  "Source": "microsvc-file-management",
+  "BasePath": "_content/microsvc-file-management",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
